@@ -22,7 +22,7 @@ $(document).ready(function () {
          The body of the loop should contain the statement:
          addImageToDiv("#while-loop");
         */
-
+        addImageToDiv("#while-loop");
 
 
 
@@ -34,7 +34,7 @@ $(document).ready(function () {
          addImageToDiv("#do-while-loop");
         */
 
-
+        addImageToDiv("#do-while-loop");
 
 
 
@@ -44,7 +44,7 @@ $(document).ready(function () {
          The body of the loop should contain the statement:
          addImageToDiv("#for-loop");
         */
-
+        addImageToDiv("#for-loop");
 
 
 
